@@ -1,0 +1,9 @@
+/* Özel stiller */
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+/* Başlıklar için modern Montserrat fontu */
+h1, h2, h3, .font-serif {
+    font-family: 'Montserrat', sans-serif;
+}
