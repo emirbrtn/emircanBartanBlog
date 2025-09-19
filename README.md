@@ -1,23 +1,33 @@
-Kişisel Blog - Emircan Bartan
-Bu proje, HTML ve Tailwind CSS kullanılarak hazırlanmış kişisel bir blog sitesidir. Sitede hakkımda ve kişisel fotoğraf/videolar bölümleri bulunmaktadır.
+# Kişisel Blog - Emircan Bartan
 
-🌐 Canlı siteyi incelemek için: [https://emircan-bartan-blog.vercel.app]
+Bu proje, **HTML** ve **Tailwind CSS** kullanılarak hazırlanmış kişisel bir blog sitesidir.  
+Sitede *Hakkımda* ve *Kişisel Fotoğraf/Videolar* bölümleri bulunmaktadır.
 
-📁 Sayfalar
-Ana Sayfa → Genel karşılama ve tanıtım
+🌐 **Canlı siteyi incelemek için:**  
+[https://emircan-bartan-blog.vercel.app](https://emircan-bartan-blog.vercel.app)
 
-Hakkımda → Kendimle ilgili bilgiler
+---
 
-Fotoğraf ve Videolar → En sevdiğim fotoğraf ve video
+## 📁 Sayfalar
 
-🛠️ Kullanılan Teknolojiler
-HTML5
+- **Ana Sayfa** → Genel karşılama ve tanıtım  
+- **Hakkımda** → Kendimle ilgili bilgiler  
+- **Fotoğraf ve Videolar** → En sevdiğim fotoğraf ve video  
 
-Tailwind CSS
+---
 
-CSS3
+## 🛠️ Kullanılan Teknolojiler
 
-🚀 Kurulum ve Çalıştırma
-Projeyi bilgisayarınıza indirin:
+- HTML5  
+- Tailwind CSS  
+- CSS3  
 
-git clone https://emircan-bartan-blog.vercel.app
+---
+
+## 🚀 Kurulum ve Çalıştırma
+
+Projeyi bilgisayarınıza indirin ve çalıştırın:
+
+```bash
+git clone https://github.com/emirbrtn/emircanBartanBlog.git
+cd emircanBartanBlog
