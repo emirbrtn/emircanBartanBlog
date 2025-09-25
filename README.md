@@ -4,7 +4,7 @@ Bu proje, **HTML** ve **Tailwind CSS** kullanılarak hazırlanmış kişisel bir
 Sitede *Hakkımda* ve *Kişisel Fotoğraf/Videolar* bölümleri bulunmaktadır.
 
 🌐 **Canlı siteyi incelemek için:**  
-[https://emircan-bartan-blog.vercel.app](https://emircan-bartan-blog.vercel.app)
+[SİTE](https://emircan-bartan-blog.vercel.app)
 
 ---
 
